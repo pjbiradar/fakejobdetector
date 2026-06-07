@@ -1,0 +1,92 @@
+[
+    {
+      "id": "1",
+      "text": "Earn unlimited income working from home with no experience required",
+      "category": "scam",
+      "severity": "high"
+    },
+    {
+      "id": "2",
+      "text": "Send your bank account details and Aadhaar card to process your application",
+      "category": "scam",
+      "severity": "high"
+    },
+    {
+      "id": "3",
+      "text": "Pay a small registration fee to secure your position at our company",
+      "category": "scam",
+      "severity": "high"
+    },
+    {
+      "id": "4",
+      "text": "Urgent hiring no interview needed start immediately guaranteed weekly salary",
+      "category": "scam",
+      "severity": "high"
+    },
+    {
+      "id": "5",
+      "text": "Be your own boss unlimited earning potential flexible hours passive income",
+      "category": "scam",
+      "severity": "high"
+    },
+    {
+      "id": "6",
+      "text": "Work from home data entry job earn 50000 per month no skills needed",
+      "category": "scam",
+      "severity": "high"
+    },
+    {
+      "id": "7",
+      "text": "WhatsApp us immediately limited slots available don't miss this opportunity",
+      "category": "scam",
+      "severity": "medium"
+    },
+    {
+      "id": "8",
+      "text": "Our company offers 8 LPA salary for freshers with zero experience work from home",
+      "category": "scam",
+      "severity": "high"
+    },
+    {
+      "id": "9",
+      "text": "Ghost job position posted for future pipeline no immediate openings",
+      "category": "ghost",
+      "severity": "medium"
+    },
+    {
+      "id": "10",
+      "text": "Salary range 3 to 15 LPA negotiable based on your expectations",
+      "category": "misleading",
+      "severity": "medium"
+    },
+    {
+      "id": "11",
+      "text": "Contact hr gmail account for multinational company job application",
+      "category": "scam",
+      "severity": "high"
+    },
+    {
+      "id": "12",
+      "text": "Exciting opportunity huge growth unlimited incentives no target pressure",
+      "category": "misleading",
+      "severity": "low"
+    },
+    {
+      "id": "13",
+      "text": "Processing fee refundable after joining required to reserve your seat",
+      "category": "scam",
+      "severity": "high"
+    },
+    {
+      "id": "14",
+      "text": "Part time job earn 2000 per day from mobile phone no investment",
+      "category": "scam",
+      "severity": "high"
+    },
+    {
+      "id": "15",
+      "text": "Send your Aadhaar PAN card passport photo for background verification before interview",
+      "category": "scam",
+      "severity": "high"
+    }
+  ]
