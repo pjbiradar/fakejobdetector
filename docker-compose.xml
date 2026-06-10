@@ -1,0 +1,13 @@
+# Create docker-compose.yml
+cat > /var/www/html/fake-job-detector/docker-compose.yml << 'EOF'
+version: '3.8'
+services:
+  fake-job-detector:
+    build: .
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./chroma_db:/app/chroma_db
+EOF
