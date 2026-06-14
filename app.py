@@ -28,8 +28,11 @@ job_text = st.text_area(
 if st.button("🔍 Analyze Job", type="primary"):
     if not job_text.strip():
         st.warning("Please paste a job posting first.")
+    elif len(job_text.strip()) < 100:    
+        st.warning("Job posting is too short to analyze. Please paste the complete job description.")
     else:
         with st.spinner("Analyzing job posting through 4 AI agents..."):
+
             result = run_pipeline(job_text)
 
         verdict = result["verdict"]
